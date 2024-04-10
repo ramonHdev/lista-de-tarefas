@@ -1,0 +1,45 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.addBtn {
+  background: green;
+  width: 80px;
+  padding: 8px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.data-input{
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.nameInput {
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.excluirBtn {
+  background: red;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  margin-left: 30%;
+  margin-right: 30%;
+  justify-content: center;
+  flex-direction: column;
+}
+
